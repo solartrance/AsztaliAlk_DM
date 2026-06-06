@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "2.Feladat": {
+      "commandName": "Project",
+      "commandLineArgs": "20 - 3"
+    }
+  }
+}
